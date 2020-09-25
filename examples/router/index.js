@@ -10,7 +10,7 @@ Vue.use(Router)
 const components = [
     {
         path: 'ceshi',
-        name: '测试',
+        name: '测试121211221',
         component: () => import('../pages/startComponentPage/ceshi.vue')
     },
     {
